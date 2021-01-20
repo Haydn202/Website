@@ -247,7 +247,7 @@ li{
 }
 
 .profile-img{
-	flex: 1;
+	flex: 0.5;
 	margin-right: 5rem;
 }
 
